@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1690743695740' stop='1690743726890'>
+    <name>Feature My Store: Shopping Cart</name>
+    <title>Feature My Store: Shopping Cart</title>
+    <test-cases>
+        <test-case start='1690743709260' status='passed' stop='1690743726583'>
+            <name>Shopping Cart: items added to shopping cart</name>
+            <title>Shopping Cart: items added to shopping cart</title>
+            <labels>
+                <label name='story' value='BOND-102'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='afdb9554-420f-476c-93e3-671886685c13-attachment.png' type='image/png' size='44804'/>
+            </attachments>
+            <description type='text'>Login into https://automationexercise.com/ </description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

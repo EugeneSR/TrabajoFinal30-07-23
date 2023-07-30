@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1690733312298' stop='1690733331790'>
+    <name>Feature My Store: User logged in</name>
+    <title>Feature My Store: User logged in</title>
+    <test-cases>
+        <test-case start='1690733315104' status='passed' stop='1690733322863'>
+            <name>Go To Page</name>
+            <title>Go To Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1690733322863' status='passed' stop='1690733329969'>
+            <name>Login: the user is successfully logged in</name>
+            <title>Login: the user is successfully logged in</title>
+            <labels>
+                <label name='story' value='BOND-101'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='84fa9b24-ccde-46e8-8900-1fb799bc2df9-attachment.png' type='image/png' size='268449'/>
+            </attachments>
+            <description type='text'>Login into https://automationexercise.com/ </description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
